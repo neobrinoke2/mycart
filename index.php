@@ -6,3 +6,4 @@ $products = Product::readAll();
 
 require __DIR__.'/views/products/browse.php';
 
+?>

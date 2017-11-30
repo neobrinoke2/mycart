@@ -15,5 +15,8 @@
         </li>
       <?php endforeach; ?>
     </ul>
+    <ul>
+    	<li><a href="panier.php">voir mon panier</a></li>
+    </ul>
   </body>
 </html>
